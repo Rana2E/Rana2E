@@ -1,4 +1,5 @@
-### 👋 It's Me, Rana 
+### 👩‍💻 Welcome to Rana's GitHub!
+
 
 
 I'm a senior Software Engineering student at **Prince Muqrin University**, passionate about building meaningful and human-centered software. I enjoy learning, solving real-world problems, and working across both mobile and web technologies.
@@ -21,7 +22,7 @@ I'm a senior Software Engineering student at **Prince Muqrin University**, passi
 
 - **Task Organizer Website**  
   A simple and user-friendly web app for managing daily tasks, built with **PHP, HTML, and CSS**.
-
+  
 ---
 
 I'm actively looking for opportunities to grow, contribute, and collaborate. Feel free to explore my work!
@@ -41,5 +42,6 @@ I'm actively looking for opportunities to grow, contribute, and collaborate. Fee
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+📫 You can reach me at: [RanaEhabHamadah@gmail.com](mailto:your.email@example.com)
 
 
