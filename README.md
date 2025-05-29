@@ -42,6 +42,7 @@ I'm actively looking for opportunities to grow, contribute, and collaborate. Fee
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-📫 You can reach me at: [RanaEhabHamadah@gmail.com](mailto:your.email@example.com)
+📫 You can reach me at:
+  <a href="mailto:RanaEhabHamadah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
