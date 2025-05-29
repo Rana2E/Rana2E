@@ -13,7 +13,7 @@ I'm a senior Software Engineering student at **Prince Muqrin University**, passi
 - **Rwaq X**  
   A graduation project — cross-platform **mobile and web app** developed using **Flutter (Dart)** and **PHP with Blade**. Rwaq X aims to create a smoother and more human-centered work environment by promoting employee mental well-being and encouraging healthy social interactions at work.
 
-- **Borkat**  
+- **Borikat**  
   A web platform showcasing the landmarks and cultural highlights of **Al-Madinah Al-Munawarah**, developed using **PHP, HTML, and CSS**.
 
 - **Auction Simulation**  
