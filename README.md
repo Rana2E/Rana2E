@@ -28,7 +28,7 @@ I enjoy learning, solving real-world problems, and working across both mobile an
 
 - **Task Organizer Website**  
   A simple and user-friendly web app for managing daily tasks, built with **PHP, HTML, and CSS**.  
-  *Built with my team.*
+
 
 ---
 
