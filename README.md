@@ -1,6 +1,6 @@
 # 👋 Welcome to Rana's GitHub!
 
-I'm a senior Software Engineering student at **Prince Muqrin University**, passionate about building meaningful and human-centered software.  
+I'm a senior Software Engineering student at **UPM**, passionate about building meaningful and human-centered software.  
 I enjoy learning, solving real-world problems, and working across both mobile and web technologies.
 
 ---
