@@ -1,61 +1,82 @@
-# 👋 Welcome to Rana's GitHub!
 
-I'm a senior Software Engineering student at **UPM**, passionate about building meaningful and human-centered software.  
-I enjoy learning, solving real-world problems, and working across both mobile and web technologies.
+# Hey, I'm Rana! 👋
 
----
+I'm a software engineer who enjoys building things, untangling bugs, and learning by doing.
 
-## 🧠 Skills
-
-- **Languages**: Python, Java, Dart, SQL
-
----
-
-## 🚀 Projects
-
-- **Rwaq X**  
-  A graduation project — cross-platform **mobile and web app** developed using **Flutter (Dart)** and **PHP with Blade**.  
-  Rwaq X aims to create a smoother and more human-centered work environment by promoting employee mental well-being and encouraging healthy social interactions at work.  
-  *Developed in collaboration with my university team.*
-
-- **Borikat**  
-  A web platform showcasing the landmarks and cultural highlights of **Al-Madinah Al-Munawarah**, developed using **PHP, HTML, and CSS**.  
-  *Built as part of a team project.*
-
-- **Auction Simulation**  
-  A Java-based simulation that demonstrates **concurrent access and synchronization**, allowing multiple users to interact with the system simultaneously without conflicts — a practical take on thread-safe design.  
-  *Collaborative project.*
-
-- **Task Organizer Website**  
-  A simple and user-friendly web app for managing daily tasks, built with **PHP, HTML, and CSS**.  
-
-
----
-
-I'm actively looking for opportunities to grow, contribute, and collaborate.  
-Feel free to explore my work!
-
----
+This space is a mix of real-world work, university projects, team collaborations, and small experiments. Some projects are polished; others show what I was learning at the time — and I like keeping both.
 
 ## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+**Mobile:** Flutter, Dart
 
----
+**Web:** Laravel, PHP, JavaScript, TypeScript, React, Angular, Next.js, HTML, CSS
 
-## 📫 Contact
+**Languages & Data:** Python, Java, SQL, MySQL, PostgreSQL
 
-<p align="center">
-  <a href="mailto:RanaEhabHamadah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+**ERP:** Odoo, Odoo Studio, QWeb, Automated Actions
+
+**Developer Tools:** Git, GitHub, Postman, Docker, Jira, Figma, GitHub Actions (CI/CD)
+
+## 🚀 Projects
+
+### UniTok — University Social Media Platform
+
+A published app for university communities. I co-founded the project and worked on Flutter features, REST API integration, real-time chat with WebSockets, authentication, user profiles, post interactions, and Android debugging.
+
+**Stack:** Flutter, Dart, REST APIs, WebSockets
+
+📱 [View on the App Store](https://apps.apple.com/sa/app/unitok-app/id6745688652)
+
+*The source repository is not publicly shared.*
+
+### Rwaq X — Graduation Project
+
+A collaborative cross-platform project exploring employee well-being and social interactions at work.
+
+**Stack:** Flutter, Dart, PHP, Blade
+
+💻 [Explore the repository](https://github.com/trsjmx/Rewaq-x)
+
+### Postgraduate Research Services Platform
+
+A full-stack client project for managing postgraduate research support services, with multiple user roles, document management, and payment integration.
+
+**Stack:** Laravel, PHP, MySQL
+
+🌐 [See the project in my portfolio](https://rana-portfolio-nine.vercel.app/)
+
+*The client repository is not publicly shared.*
+
+### Borikat — Discover Al-Madinah
+
+A university team project exploring the landmarks and cultural attractions of Al-Madinah through a web platform.
+
+**Stack:** PHP, HTML, CSS
+
+💻 [Explore the repository](https://github.com/Rana2E/Borikat)
+
+### Auction Simulation
+
+A Java team project exploring concurrent access, synchronization, and thread-safe programming.
+
+**Stack:** Java
+
+💻 [Explore the repository](https://github.com/Rana2E/AuctionSimulation)
+
+### Task Organizer
+
+A small web app for organizing everyday tasks — one of my earlier web development projects.
+
+**Stack:** PHP, HTML, CSS
+
+💻 [Explore the repository](https://github.com/Rana2E/task-management)
+
+### Birthday — Fun Project 🎂
+
+A small personal project made just for fun. A reminder that not every project has to be serious to teach you something.
+
+🎈 [Find it in my portfolio](https://rana-portfolio-nine.vercel.app/)
+
+## 🔗 Elsewhere
+
+[Portfolio](https://rana-portfolio-nine.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ranaehab/)
